@@ -1,0 +1,20 @@
+Chat Application
+
+#Technologies used: 
+
+HTML, CSS, JavaScript
+
+#Getting started 
+
+- clone the project from the github repository 
+- install node.js using terminal command 
+- open terminal in the project file using vs code 
+- run "npm dev" command to initialise the npm server
+- go to the respective port(local host:4000) in any browser to access the web application
+- input the correct password to access the chat application
+ 
+#key features:
+
+welcome to my chat application , in this application different users can join a single chat room and can share messages to all the users across the room at the same time  , the application is protected with a default password for security and the username is customizable and can be given as per the user needs ,the application interface is inspired from whatsapp and some of the features such as the color tones and time of message sent ,users typing an message was implemented and the screen size is adjustable accordingly along with a scroll bar to automatically scroll down for every new message after the screen space has been filled , the messages are realtime and there is no need to refresh for each and every message ,no of active users can also be seen at the botttom of the page 
+
+#password for joining : 1234
